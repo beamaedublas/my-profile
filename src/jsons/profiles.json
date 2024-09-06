@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "11 May 2003" },
+    {
+      "website": "<a target='blank' href='http://bea-dublas-resume.s3-website-us-east-1.amazonaws.com'>http://bea-dublas-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 946-157-7547 " },
+    { "address": "Potohan, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>dublasbea@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Potohan, Tubigon, Bohol, Philippines",
+    "+63 946-157-7547",
+    "<a href='mailto:someone@example.com'>dublasbea@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2024-2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2020 - 2021",
+      "school": "Holy Cross Academy",
+      "address": "Pooc Oriental, Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2014 - 2015",
+      "school": "Tubigon West Central Elementary School",
+      "address": "Potohan, Tubigon, Bohol"
+    }
+  ]
+}
